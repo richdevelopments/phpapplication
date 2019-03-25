@@ -1,1 +1,1 @@
-Building a simple PHP application
+A website selling t-shirts, using PHP and CSS.
